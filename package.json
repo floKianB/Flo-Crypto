@@ -1,5 +1,4 @@
 {
-  CI= npm run build,
   "name": "flocrypto",
   "version": "0.1.0",
   "private": true,
