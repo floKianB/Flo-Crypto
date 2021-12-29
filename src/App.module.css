@@ -1,0 +1,13 @@
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+::-webkit-scrollbar{
+    background-color: transparent;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #726AF8;
+    border-radius: 50px;
+}
